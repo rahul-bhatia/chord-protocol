@@ -1,8 +1,5 @@
 # Project 3 : Peer to Peer Chord.
 
-## Team Memebers 
-- Rahul Bhatia (3427-1390)
-- Simran Bhagwandasani (7197-3082)
 ## How to Run?
 `dotnet fsi chordP2p.fsx Nodes Request` <br>
 Here `Nodes` is no. of actors we need to spawn to participate in the chord and `Request` is the number of keys every node should lookup for.
